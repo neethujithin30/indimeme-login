@@ -1,0 +1,15 @@
+.homecontent{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: green;
+  text-align: center ;
+  font-size: 70px;
+  font-weight: 600;
+  padding-top: 100px;
+}
+
+.content{
+  color: rgb(80, 72, 72);
+  padding-left: 10%;
+  padding-top: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
